@@ -1,0 +1,10 @@
+Context Prompt 
+
+I am an academic librarian that is interested in exploring trends and statistics about our online chat reference services. I am using a Google Colab notebook and will be using the Python programming language to explore the dataset. I have already loaded the dataset into the DataFrame into the Google Colab notebook as “df” and this dataset consists of six columns, one header row that includes each variable’s name, and multiple rows of data. I have also already loaded the libraries pandas, matplotlib, scipy, and seaborn into the Google Colab notebook.
+
+The columns of the dataset are: Number, which is a unique identifying number for each chat reference session; StudentLevel, which identifies whether the student using the service is a Graduate or an Undergraduate; Timestamp, which has the starting date (in MM/DD/YYYY format) and starting time (24h format) of each chat reference session; Transcript, which has complete transcripts of each reference session where librarian statements are preceded by "Librarian:" and student statements are preceded by "Student:"; Duration, which is the length of the chat reference session in seconds, and Rating, which is the rating provided by the student at the end of the session, rated from 1 (worst) to 4 (best) and where an entry of 0 indicates no response to the survey.
+
+I will describe to you various ways in which I would like to explore the dataset and ask you to provide Python code that I can cut and paste into the Google Colab notebook to achieve my goals. I am a novice programmer in Python so I would like you to include comments in the Python code that explain what each section is intended to do and how it relates to my overall goal for that analysis. In your code, you do not need to reload the dataset nor reload the libraries I have already identified.
+
+Please let me know you are ready to proceed by confirming the name of the dataset and confirming the libraries that I have already loaded.
+
